@@ -2695,3 +2695,6 @@
 [submodule "Penetration Testing/Info Gathering/SQLRecon"]
 	path = Penetration Testing/Info Gathering/SQLRecon
 	url = https://github.com/skahwah/SQLRecon.git
+[submodule "Penetration Testing/Training/vulnerable-AD"]
+	path = Penetration Testing/Training/vulnerable-AD
+	url = https://github.com/safebuffer/vulnerable-AD.git

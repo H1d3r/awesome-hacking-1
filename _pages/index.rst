@@ -919,6 +919,7 @@ Training
 - `RopeyTasks <https://github.com/continuumsecurity/RopeyTasks>`_ - Deliberately vulnerable web application.
 - `Sadcloud <https://github.com/nccgroup/sadcloud>`_ - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure.
 - `Sqli-labs <https://github.com/Audi-1/sqli-labs>`_ - SQLI labs to test error based, Blind boolean based, Time based.
+- `Vulnerable-AD <https://github.com/safebuffer/vulnerable-AD>`_ - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab.
 - `Vulnerable-mcp-servers-lab <https://github.com/appsecco/vulnerable-mcp-servers-lab>`_ - A collection of servers which are deliberately vulnerable to learn Pentesting MCP Servers.
 - `WackoPicko <https://github.com/adamdoupe/WackoPicko>`_ - A vulnerable web application used to test web application vulnerability scanners.
 - `Xvwa <https://github.com/s4n7h0/xvwa>`_ - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
